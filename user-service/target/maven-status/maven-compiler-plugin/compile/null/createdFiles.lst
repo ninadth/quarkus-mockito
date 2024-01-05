@@ -1,0 +1,4 @@
+com\quarkus\Movie$MovieBuilder.class
+com\quarkus\MovieResource.class
+com\quarkus\Movie.class
+com\quarkus\MovieRepository.class
